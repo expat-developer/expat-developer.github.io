@@ -30,6 +30,10 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
 
+h2 {
+  font-size: 1.2rem;
+}
+
 @font-face {
   font-family: "vazir";
   font-style: normal;
